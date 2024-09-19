@@ -1,5 +1,5 @@
 import tkinter as tk
-from PIL import Image, ImageTk
+from PIL import Image
 import numpy as np
 import cv2
 import win32gui
@@ -10,7 +10,6 @@ import time
 import win32api
 import threading
 import math
-import random
 # 加载训练好的模型
 x1, y1, x2, y2,width,height=[0,0,0,0,0,0]
 center=[0,0]
