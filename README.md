@@ -10,6 +10,7 @@ https://github.com/user-attachments/assets/debc4002-0adc-4847-ad24-b6a79e9ab3ae
 下载所需依赖包，和yolov8，其它版本的yolo不知道能不能用
 
 在此处将路径改为模型文件的相对或绝对路径，ddx和ddy是瞄准位置偏移
+修改好以后运行程序，然后打开游戏，大约10s后就能看到识别框
 
 ![image](https://github.com/user-attachments/assets/9d16068e-17bf-4366-91c2-48846de3c1e3)
 
